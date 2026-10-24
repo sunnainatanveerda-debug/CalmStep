@@ -1,0 +1,17 @@
+
+[
+    {
+        "task": "Practice SQL joins",
+        "importance": "High",
+        "deadline": "Today",
+        "duration": "15 minutes",
+        "completed": true
+    },
+    {
+        "task": "Practice Python basics",
+        "importance": "High",
+        "deadline": "Today",
+        "duration": "30 minutes",
+        "completed": false
+    }
+]
