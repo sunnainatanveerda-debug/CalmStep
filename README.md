@@ -22,7 +22,19 @@ CalmStep provides a simple, supportive workspace that helps students organize th
 - **Focus Mode:** Highlight a high-priority unfinished task.
 - **Task Persistence:** Save tasks locally in `tasks.json`.
 - **Progress Tracking:** See how many tasks are completed.
+## 📸 App Screenshots
 
+### 🏠 Dashboard
+![CalmStep Dashboard](Screenshot%202026-10-24%20024102.png)
+
+### 📋 My Tasks
+![CalmStep My Tasks](Screenshot%202026-10-24%20024148.png)
+
+### 🧩 Break Down a Task
+![CalmStep Break Down a Task](Screenshot%202026-10-24%20024233.png)
+
+### 🎯 Focus Mode
+![CalmStep Focus Mode](Screenshot%202026-10-24%20024256.png)
 ## Technology Stack
 
 - Python
